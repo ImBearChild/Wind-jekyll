@@ -4,9 +4,13 @@ Wind —— 单色系Jekyll主题 基于 **[Moon](https://taylantatli.github.io/
 
 ## 独有特性
 * 专为中国优化CDN
+* 专为慢速链接优化
+      （中国电信的出口网关，你懂的）
 * 中文翻译
 * 导航栏里每日一句
-* Js 动态生成背景c
+* Js 动态生成背景
+* 服务器管理面板
+      参见 Extended 分支
 
 ## 继承自 Moon 的特性
 * HTML5与CSS3特效
