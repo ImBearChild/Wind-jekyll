@@ -6,7 +6,7 @@ Wind —— 单色系Jekyll主题 基于 **[Moon](https://taylantatli.github.io/
 * 专为中国优化CDN
 * 中文翻译
 * 导航栏里每日一句
-* Js 动态生成背景
+* Js 动态生成背景c
 
 ## 继承自 Moon 的特性
 * HTML5与CSS3特效
