@@ -19,6 +19,9 @@ Wind —— 单色系Jekyll主题 基于 **[Moon](https://taylantatli.github.io/
 * 导航栏
 * MathJax 支持
 
+## 更新日志
+* Master-Ver:0.1
+
 ## 截图
 ![](https://github.com/ImCopas/Assets/blob/master/Screenshot-2017-11-11%20Home.png?raw=true)
 ![](https://github.com/ImCopas/Assets/blob/master/Screenshot-2017-11-11%20%E5%85%B3%E4%BA%8E%E6%88%91%20About%20me.png?raw=true)
