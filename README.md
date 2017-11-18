@@ -2,7 +2,11 @@
 
 Wind —— 单色系Jekyll主题 基于 **[Moon](https://taylantatli.github.io/Moon)**
 
+<<<<<<< HEAD
 现有 Typecho 版移植计划
+=======
+现因学业暂停开发
+>>>>>>> 7e4342edd1a3f924ee7868dac926bba24d3483cb
 
 ## 独有特性
 * 专为中国优化CDN
